@@ -4,5 +4,6 @@
     background-color: lightblue;
     border:15px solid blue;
     margin: 20px;
-    width: 470px;
+    width:300px;
+    box-sizing: border-box;
 }

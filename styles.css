@@ -1,11 +1,8 @@
 
-.box p{
+.box{
     padding: 50px;
     background-color: lightblue;
     border:15px solid blue;
     margin: 20px;
-    
-}
-P{
-    width:300px;
+   width: 300px;
 }

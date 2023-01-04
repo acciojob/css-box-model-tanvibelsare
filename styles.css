@@ -4,6 +4,8 @@
     background-color: lightblue;
     border:15px solid blue;
     margin: 20px;
+    
+}
+P{
     width:300px;
-    box-sizing: border-box;
 }
